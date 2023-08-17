@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Montserrat;
+  src: url("/Fonts/Montserrat-VariableFont_wght.ttf") format("TrueType");
+}
+
+@font-face {
+  font-family: Prata;
+  src: url("/Fonts/Prata-Regular.ttf") format("TrueType");
+}
